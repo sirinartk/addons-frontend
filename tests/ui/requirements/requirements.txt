@@ -6,7 +6,7 @@ chardet==3.0.4
 execnet==1.6.0
 FoxPuppet==1.0.3
 funcsigs==1.0.2
-idna==2.8
+idna==3.7
 more-itertools==7.0.0
 pathlib2==2.3.3
 pluggy==0.9.0
