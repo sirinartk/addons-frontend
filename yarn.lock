@@ -3268,7 +3268,6 @@ babel-eslint@^9.0.0:
 
 "babel-gettext-extractor@github:mozilla/babel-gettext-extractor#babel-7":
   version "4.0.0"
-  uid "78ff104e669edb731e979e36fbf4fe261a569924"
   resolved "https://codeload.github.com/mozilla/babel-gettext-extractor/tar.gz/78ff104e669edb731e979e36fbf4fe261a569924"
   dependencies:
     "@babel/core" "^7.0.0"
@@ -5813,10 +5812,10 @@ domhandler@^2.3.0:
   dependencies:
     domelementtype "1"
 
-dompurify@1.0.10:
-  version "1.0.10"
-  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-1.0.10.tgz#18d7353631c86ee25049e38fbca8c6b2c5a2af87"
-  integrity sha512-huhl3DSWX5LaA7jDtnj3XQdJgWW1wYouNW7N0drGzQa4vEUSVWyeFN+Atx6HP4r5cang6oQytMom6I4yhGJj5g==
+dompurify@2.4.2:
+  version "2.4.2"
+  resolved "https://registry.yarnpkg.com/dompurify/-/dompurify-2.4.2.tgz#c3409b49357804c9b00e1fbebea81f26514c5bc3"
+  integrity sha512-ckbbxcGpfTJ7SNHC2yT2pHSCYxo2oQgSfdoDHQANzMzQyGzVmalF9W/B+X97Cdik5xFwWtwJP232gIP2+1kNEA==
 
 domutils@1.5.1:
   version "1.5.1"
